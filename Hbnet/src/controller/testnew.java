@@ -7,7 +7,6 @@ public class testnew {
 
 	public static void main(String[] args)
 	{
-	
     addressd a=new addressd();
     //a.setAid(1);
     a.setAloc("hyd");
